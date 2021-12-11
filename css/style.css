@@ -1,0 +1,123 @@
+.left   {
+
+              width:49%;
+              height:580px;
+         	  float:left;
+         	  background-color:#FFF;
+		      margin-top: 0%;
+	          margin-right:0px;
+	          margin-bottom: 0px;
+	          margin-left: 0px;
+	          position: absolut;  
+}
+.right {
+
+              width:48%;
+              height:530px;
+         	  float:right;
+         	  background-color:#FFF;
+
+  }
+.center {
+
+                margin-top: -18%;                  
+                width:1%;
+                height:380px;
+         	    float:center;
+         	    background-color:#FFF;
+  }
+
+.top {
+
+                  width:208.5%;
+                  height:40px;
+		          color:#FFF;
+		          font-size:25px;
+         	      background-color:#000;
+            
+		             
+  }
+
+.menu  {
+
+                  
+		 background-color:#000;
+		 color:#FFF;
+		 height:38px;
+         margin-top: -2.7%;
+	     margin-left:1000px;
+		 float: right ;
+         margin-right:0px;
+	     margin-bottom: 0px;
+	     margin-left: -740px;
+      
+               
+		 
+  }
+
+.footer {
+
+                  color :#FFF;
+                  width:208.5%;
+                  height:40px;
+         	  float:footer;
+         	  background-color:black;
+		  justify-content: center;
+                  align-items:"center";
+	          position: center;
+                  font-style: italic;
+                  font-size: 20px;
+	          font-family:Georgia, "Times New Roman", Times, serif;
+	          margin-right:0px;
+	          margin-bottom: 0px;
+	          margin-left: -740px;
+		  margin-top: 20%;
+  }
+
+.email {
+
+                  margin-top: 33%;
+	          margin-right:0px;
+	          margin-bottom: 0px;
+	          margin-left: 30px;
+  }
+
+.texto {
+
+                  margin-top: 30%;
+	          margin-right:0px;
+	          margin-bottom: 0px;
+	          margin-left: 0px;
+  }
+
+.formulario {
+
+                  margin-top: 28%;
+	          margin-right:0px;
+	          margin-bottom: 0px;
+	          margin-left: 50%;
+		      font-size:54pt;
+              font-family: Verdana, Geneva, Tahoma, sans-serif;
+              border-style: none;
+         
+  }
+
+.bt {
+	color: white;
+	height:40px;
+	margin-top: 0%;
+	margin-right:0px;
+	border:1px solid black;
+	border-radius:3px;
+	display:inline-block;
+	cursor:pointer;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight:bold;
+	font-size:15px;
+	padding:6px 10px;
+	text-decoration:none;
+    background-color: black; 
+     
+   
+}
+
